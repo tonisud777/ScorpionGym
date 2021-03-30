@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1095933058046",
+    "project_id": "gimnacio-escorpion",
+    "storage_bucket": "gimnacio-escorpion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095933058046:android:523a60365f27fe8358beaf",
+        "android_client_info": {
+          "package_name": "com.example.scorpiongym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095933058046-8lg2ibbd0h9do7mg5nbc4ooo9iihe4ii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scorpiongym",
+            "certificate_hash": "3c694a73a2e87f049fb93877db113877a83a72df"
+          }
+        },
+        {
+          "client_id": "1095933058046-aio2td1l55qr24p95ftf25qfau0qm1sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqmbLHAGMjJETIuiL1SngPjY8BRaK2nTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095933058046-aio2td1l55qr24p95ftf25qfau0qm1sa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
