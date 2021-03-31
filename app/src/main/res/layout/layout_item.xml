@@ -7,7 +7,8 @@
     app:cardCornerRadius="0dp"
     android:layout_margin="7dp"
     android:id="@+id/lista_elemento"
-    android:elevation="90dp">
+    android:elevation="90dp"
+    >
 
     <RelativeLayout
         android:layout_width="match_parent"

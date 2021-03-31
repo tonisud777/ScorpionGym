@@ -4,9 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorAccent"
+    android:background="@drawable/gymback"
     android:padding="16dp"
-    tools:context=".adaptadores.PerfilDatos">
+    tools:context=".adaptadores.PerfilDatos"
+
+    >
 
     <ImageView
         android:id="@+id/idimagentrabajador"
@@ -23,19 +25,23 @@
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:textSize="30dp"
         android:layout_marginStart="27dp"
         android:layout_marginTop="250dp"
-        android:text="nombre" />
+        android:text="nombre"
+        android:textColor="#FFFFFF"
+        android:textSize="30dp" />
 
     <TextView
         android:id="@+id/iddescripciontrabajador"
-        android:layout_width="match_parent"
-        android:layout_height="206dp"
+        android:layout_width="382dp"
+        android:layout_height="369dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_marginTop="300dp"
-        android:text="descripcion" />
+        android:text="descripcion"
+        android:textColor="#FDFBFB"
+        android:textColorHint="#CAC7C7"
+        android:textSize="18sp" />
 
 
 </RelativeLayout>

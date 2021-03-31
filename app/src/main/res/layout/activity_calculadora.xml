@@ -5,7 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".BMI_Calculator">
+    tools:context=".BMI_Calculator"
+    android:background="@drawable/gymback"
+    >
 
 
     <TextView
@@ -62,8 +64,8 @@
         android:layout_gravity="center"
         android:layout_marginTop="20dp"
         android:text="Resultado"
+        android:textColor="#FAF8F8"
         android:textSize="30dp" />
-
 
 
 </LinearLayout>
