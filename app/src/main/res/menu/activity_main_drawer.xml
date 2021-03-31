@@ -13,15 +13,15 @@
             android:visible="true" />
         <item
             android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
+            android:icon="@drawable/dieta"
             android:title="@string/menu_gallery" />
         <item
             android:id="@+id/nav_calculadora"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:icon="@drawable/bmiclac"
             android:title="BMI CALCULADORA" />
         <item
             android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:icon="@drawable/creadores"
             android:title="@string/menu_slideshow" />
 
 
