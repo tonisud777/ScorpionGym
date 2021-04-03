@@ -25,15 +25,15 @@
 
     <TextView
         android:id="@+id/idnombretrabajador"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="134dp"
+        android:layout_height="62dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="27dp"
-        android:layout_marginTop="250dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="238dp"
         android:text="nombre"
         android:textColor="#FFFFFF"
-        android:textSize="30dp" />
+        android:textSize="36sp" />
 
     <TextView
         android:id="@+id/iddescripciontrabajador"
